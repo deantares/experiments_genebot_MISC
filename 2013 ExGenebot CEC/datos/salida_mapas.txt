@@ -1,0 +1,902 @@
+map1 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:21.300167711788752 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+0 script.php:2343
+map2 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:21.71361050718882 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map3 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:22.045483707839345 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+2 script.php:2343
+map4 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:17.2447196287127 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map5 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:16.03679383472204 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+0 script.php:2343
+map6 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:19.65067647949092 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map7 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:21.761182234018243 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map8 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:13.76231176681839 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map9 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:21.519715670211006 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map10 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:20.832529349614934 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map11 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:21.912898798146994 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map12 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:19.106769410124063 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map13 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:19.782555592715138 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map14 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:18.74199136871161 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+0 script.php:2343
+map15 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:12.687492936661247 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map16 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:20.16922230968111 testeando.js:212
+Centralidad: 3.875 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map17 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:21.15382383175843 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map18 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:29.688262668490164 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+1 script.php:2343
+map19 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:29.81943638160966 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+0 script.php:2343
+map20 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:11.363071688300426 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+1 script.php:2343
+map21 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:19.617378043375453 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map22 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:4.847893861131992 testeando.js:212
+Centralidad: 7.25 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+2 script.php:2343
+map23 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:14.069819265140621 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+0 script.php:2343
+map24 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:23.462628474767616 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+0 script.php:2343
+map25 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:28.30748192144526 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+1 script.php:2343
+map26 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:5.401592273351979 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+1 script.php:2343
+map27 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:10.07665793967704 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+2 script.php:2343
+map28 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:25.306616468645863 testeando.js:212
+Centralidad: 2.75 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+2 script.php:2343
+map29 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:14.55601451430519 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+0 script.php:2343
+map30 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:4.44606779924507 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+1 script.php:2343
+map31 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:24.381642671669535 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+2 script.php:2343
+map32 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:21.050016032582615 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map33 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:10.924809779834783 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+1 script.php:2343
+map34 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:17.902835261706116 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map35 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:10.077206593282702 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+0 script.php:2343
+map36 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:19.51659595510222 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map37 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:22.49687933877668 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+1 script.php:2343
+map38 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:23.332034973910584 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+1 script.php:2343
+map39 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:11.300437200337523 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+0 script.php:2343
+map40 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:12.040142920101562 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map41 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:18.127515749997638 testeando.js:212
+Centralidad: 2.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map42 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:22.91961180617955 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+0 script.php:2343
+map43 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:18.40067469314565 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map44 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:5.723372862501349 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+2 script.php:2343
+map45 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:21.1257801784265 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map46 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:26.114914298835988 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+2 script.php:2343
+map47 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:12.824783637978133 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map48 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:13.546635196187724 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map49 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:21.717154576295002 testeando.js:212
+Centralidad: 2.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map50 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:9.144567489127006 testeando.js:212
+Centralidad: 2.75 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+2 script.php:2343
+map51 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:21.52695692807529 testeando.js:212
+Centralidad: 2.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map52 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:17.427618326357823 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map53 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:17.062709021350624 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map54 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:27.314222330970004 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+1 script.php:2343
+map55 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:23.091609275598294 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+1 script.php:2343
+map56 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:26.54270981171604 testeando.js:212
+Centralidad: 2.75 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+2 script.php:2343
+map57 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:18.701135503129265 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map58 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:21.70209672589296 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map59 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:19.109590605248297 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map60 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:18.48410889676705 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map61 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:6.960127923756891 testeando.js:212
+Centralidad: 2.75 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+2 script.php:2343
+map62 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:15.766508889941296 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map63 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:18.405409632488233 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map64 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:10.589343411919378 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+1 script.php:2343
+map65 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:24.609581459979253 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+2 script.php:2343
+map66 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:20.11878817674219 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map67 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:19.77358462599711 testeando.js:212
+Centralidad: 2.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map68 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:9.345189604959508 testeando.js:212
+Centralidad: 2.75 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+2 script.php:2343
+map69 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:28.936943187771508 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+1 script.php:2343
+map70 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:24.674218071187457 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+2 script.php:2343
+map71 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:16.86362028781133 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+0 script.php:2343
+map72 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:24.563676683093636 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+2 script.php:2343
+map73 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:13.087025514382615 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+0 script.php:2343
+map74 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:17.03661868865333 testeando.js:212
+Centralidad: 2.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map75 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:25.891910279041326 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+2 script.php:2343
+map76 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:23.83686107129976 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+1 script.php:2343
+map77 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:30.34900244817043 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+2 script.php:2343
+map78 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:19.387476441662603 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map79 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:30.44476250341583 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+1 script.php:2343
+map80 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:21.63610380090947 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map81 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:14.034473864585573 testeando.js:212
+Centralidad: 2.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map82 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:14.088623976194135 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map83 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:20.122233532743046 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map84 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:6.255291268525658 testeando.js:212
+Centralidad: 3.875 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+2 script.php:2343
+map85 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:18.58644905424451 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map86 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:9.600151934189386 testeando.js:212
+Centralidad: 3.875 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+2 script.php:2343
+map87 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:26.198689016576285 testeando.js:212
+Centralidad: 5 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+2 script.php:2343
+map88 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:7.913701466369309 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+0 script.php:2342
+1 script.php:2343
+map89 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:16.845634700082105 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map90 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:27.2344760507296 testeando.js:212
+Centralidad: 5 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+2 script.php:2343
+map91 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:18.83685661383154 testeando.js:212
+Centralidad: 6.125 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map92 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:15.094311731014681 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+1 script.php:2343
+map93 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:23.59843685087669 testeando.js:212
+Centralidad: -0.625 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+1 script.php:2343
+map94 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:19.646052401912577 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+0 script.php:2343
+map95 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:26.08224615938724 testeando.js:212
+Centralidad: 1.625 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+2 script.php:2343
+map96 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:15.479603093537103 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+0 script.php:2343
+map97 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:33.15191094789342 testeando.js:212
+Centralidad: -1.75 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+0 script.php:2343
+map98 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:32.869246878518474 testeando.js:212
+Centralidad: 0.5 testeando.js:215
+Array[2]
+ script.php:2341
+2 script.php:2342
+1 script.php:2343
+map99 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:13.554587526026173 testeando.js:212
+Centralidad: 2.75 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+map100 script.php:2333
+Array[3]
+ testeando.js:208
+Distancia:13.113275641240817 testeando.js:212
+Centralidad: 3.875 testeando.js:215
+Array[2]
+ script.php:2341
+1 script.php:2342
+2 script.php:2343
+Array[3]
+ script.php:2347

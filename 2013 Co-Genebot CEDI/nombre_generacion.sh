@@ -1,0 +1,110 @@
+mv genero0.txt genera000.txt
+mv genera1.txt genera001.txt
+mv genera2.txt genera002.txt
+mv genera3.txt genera003.txt
+mv genera4.txt genera004.txt
+mv genera5.txt genera005.txt
+mv genera6.txt genera006.txt
+mv genera7.txt genera007.txt
+mv genera8.txt genera008.txt
+mv genera9.txt genera009.txt
+
+mv genera10.txt genera010.txt
+mv genera11.txt genera011.txt
+mv genera12.txt genera012.txt
+mv genera13.txt genera013.txt
+mv genera14.txt genera014.txt
+mv genera15.txt genera015.txt
+mv genera16.txt genera016.txt
+mv genera17.txt genera017.txt
+mv genera18.txt genera018.txt
+mv genera19.txt genera019.txt
+
+mv genera20.txt genera020.txt
+mv genera21.txt genera021.txt
+mv genera22.txt genera022.txt
+mv genera23.txt genera023.txt
+mv genera24.txt genera024.txt
+mv genera25.txt genera025.txt
+mv genera26.txt genera026.txt
+mv genera27.txt genera027.txt
+mv genera28.txt genera028.txt
+mv genera29.txt genera029.txt
+
+
+mv genera30.txt genera030.txt
+mv genera31.txt genera031.txt
+mv genera32.txt genera032.txt
+mv genera33.txt genera033.txt
+mv genera34.txt genera034.txt
+mv genera35.txt genera035.txt
+mv genera36.txt genera036.txt
+mv genera37.txt genera037.txt
+mv genera38.txt genera038.txt
+mv genera39.txt genera039.txt
+
+mv genera40.txt genera040.txt
+mv genera41.txt genera041.txt
+mv genera42.txt genera042.txt
+mv genera43.txt genera043.txt
+mv genera44.txt genera044.txt
+mv genera45.txt genera045.txt
+mv genera46.txt genera046.txt
+mv genera47.txt genera047.txt
+mv genera48.txt genera048.txt
+mv genera49.txt genera049.txt
+
+mv genera50.txt genera050.txt
+mv genera51.txt genera051.txt
+mv genera52.txt genera052.txt
+mv genera53.txt genera053.txt
+mv genera54.txt genera054.txt
+mv genera55.txt genera055.txt
+mv genera56.txt genera056.txt
+mv genera57.txt genera057.txt
+mv genera58.txt genera058.txt
+mv genera59.txt genera059.txt
+
+mv genera60.txt genera060.txt
+mv genera61.txt genera061.txt
+mv genera62.txt genera062.txt
+mv genera63.txt genera063.txt
+mv genera64.txt genera064.txt
+mv genera65.txt genera065.txt
+mv genera66.txt genera066.txt
+mv genera67.txt genera067.txt
+mv genera68.txt genera068.txt
+mv genera69.txt genera069.txt
+
+mv genera70.txt genera070.txt
+mv genera71.txt genera071.txt
+mv genera72.txt genera072.txt
+mv genera73.txt genera073.txt
+mv genera74.txt genera074.txt
+mv genera75.txt genera075.txt
+mv genera76.txt genera076.txt
+mv genera77.txt genera077.txt
+mv genera78.txt genera078.txt
+mv genera79.txt genera079.txt
+
+mv genera80.txt genera080.txt
+mv genera81.txt genera081.txt
+mv genera82.txt genera082.txt
+mv genera83.txt genera083.txt
+mv genera84.txt genera084.txt
+mv genera85.txt genera085.txt
+mv genera86.txt genera086.txt
+mv genera87.txt genera087.txt
+mv genera88.txt genera088.txt
+mv genera89.txt genera089.txt
+
+mv genera90.txt genera090.txt
+mv genera91.txt genera091.txt
+mv genera92.txt genera092.txt
+mv genera93.txt genera093.txt
+mv genera94.txt genera094.txt
+mv genera95.txt genera095.txt
+mv genera96.txt genera096.txt
+mv genera97.txt genera097.txt
+mv genera98.txt genera098.txt
+mv genera99.txt genera099.txt
